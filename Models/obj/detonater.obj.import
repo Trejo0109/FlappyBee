@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cn546kvgriau5"
+path="res://.godot/imported/detonater.obj-d64b2ce34b094a63a4e951ff493ddbf6.mesh"
+
+[deps]
+
+files=["res://.godot/imported/detonater.obj-d64b2ce34b094a63a4e951ff493ddbf6.mesh"]
+
+source_file="res://Models/obj/detonater.obj"
+dest_files=["res://.godot/imported/detonater.obj-d64b2ce34b094a63a4e951ff493ddbf6.mesh", "res://.godot/imported/detonater.obj-d64b2ce34b094a63a4e951ff493ddbf6.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://digymioaui38i"
+path="res://.godot/imported/trail_dirt_end_2.obj-89aad88bfa426a1ab9a08fab5f8a83a6.mesh"
+
+[deps]
+
+files=["res://.godot/imported/trail_dirt_end_2.obj-89aad88bfa426a1ab9a08fab5f8a83a6.mesh"]
+
+source_file="res://Models/obj/trail_dirt_end_2.obj"
+dest_files=["res://.godot/imported/trail_dirt_end_2.obj-89aad88bfa426a1ab9a08fab5f8a83a6.mesh", "res://.godot/imported/trail_dirt_end_2.obj-89aad88bfa426a1ab9a08fab5f8a83a6.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

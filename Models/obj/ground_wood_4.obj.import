@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://djgg0egn5kqxi"
+path="res://.godot/imported/ground_wood_4.obj-0d5517f916181a21c8ebee56ac927fbd.mesh"
+
+[deps]
+
+files=["res://.godot/imported/ground_wood_4.obj-0d5517f916181a21c8ebee56ac927fbd.mesh"]
+
+source_file="res://Models/obj/ground_wood_4.obj"
+dest_files=["res://.godot/imported/ground_wood_4.obj-0d5517f916181a21c8ebee56ac927fbd.mesh", "res://.godot/imported/ground_wood_4.obj-0d5517f916181a21c8ebee56ac927fbd.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false
